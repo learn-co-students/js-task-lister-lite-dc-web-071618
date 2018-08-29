@@ -4,10 +4,16 @@ html {
   font-family: "Titillium Web", sans-serif;
 }
 
+.delete{
+    margin-left: 15px;
+    font-size: 12px;
+    background: aliceblue;
+}
+
 body {
   min-height: 100%;
   min-width: 100%;
-  background: linear-gradient(pink, violet);
+  background: linear-gradient(rgb(226, 222, 169), violet);
 }
 
 button {

@@ -1,4 +1,9 @@
+let list = document.querySelector('#list ul')
 
 document.addEventListener("DOMContentLoaded", () => {
-  const taskList = new TaskList();
+  // list.innerHTML = ''
+  // tasks.forEach(function(task){
+  //   list.innerHTML += `<li>${task.text}</li>`
+  // })
 });
+// sdfgfg
