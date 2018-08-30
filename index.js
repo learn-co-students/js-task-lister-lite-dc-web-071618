@@ -3,6 +3,7 @@
 const submitForm = document.getElementById("create-task-form")
 
 submitForm.addEventListener('submit', function(e) {
+  
   e.preventDefault()
   let currentTasks = document.getElementById("tasks")
   let task = document.getElementById("new-task-description").value
